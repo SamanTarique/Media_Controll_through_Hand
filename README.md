@@ -29,16 +29,16 @@ A real-time computer vision project that enables users to interact with their co
 ## Output Screenshots
 
 ### Volume Control Mode
-![Volume](screenshots/volume.png)
+![volume](screenshots/volume.png)
 
 ### Brightness Control Mode
-![Brightness](screenshots/brightness.png)
+![brightness](screenshots/brightness.png)
 
 ### Play / Pause Gesture
-![PlayPause](screenshots/playpause.png)
+![playPause](screenshots/playpause.png)
 
 ### Next Track Gesture
-![NextTrack](screenshots/nexttrack.png)
+![nexttrack](screenshots/nexttrack.png)
 
 ---
 
