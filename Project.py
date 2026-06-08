@@ -12,7 +12,7 @@ import screen_brightness_control as sbc
 device = AudioUtilities.GetSpeakers()
 volume = device.EndpointVolume
 
-# ==========================
+# ===========================
 # CAMERA
 # ==========================
 video = cv2.VideoCapture(0)
