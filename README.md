@@ -79,7 +79,7 @@ Make sure:
 
 ##  Gesture Controls
 Gesture	Action:
-- Fist ✊	-->                     Play / Pause media
+- Fist ✊	--->                     Play / Pause media
 -  Victory ✌️ -->                  Next track
 - Thumb + Index distance -->      Volume control
 - Thumb + Middle distance -->    	Brightness control
